@@ -19,7 +19,7 @@
 
 <img :src="$withBase('/images/context-reshaping03.png')" alt="上下文重塑功能展示" class="doc-image" style="width: 500px;">
 
-## Project 功能
+## Project 功能（目前只有pro账号可以使用）
 Project 功能支持更复杂的任务管理：
 - 对**多文件项目支持**更好
 - 上传至 Project knowledge 里的内容不会消耗token，**节省成本**
